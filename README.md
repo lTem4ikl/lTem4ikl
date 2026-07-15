@@ -44,7 +44,7 @@ Learning by doing. Solving crackmes, dissecting binaries, documenting the proces
   <img src="https://img.shields.io/badge/x86%2Fx64%20ASM-8B5CF6?style=for-the-badge" />
 </p>
 
----
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lTem4ikl&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=8B5CF6&fire=8B5CF6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58" width="49%" />
