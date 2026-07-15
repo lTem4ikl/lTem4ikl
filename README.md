@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=&fontSize=0" />
 
-  <h1>Reverse Engineering</h1>
+  <h1>Reverse Engineer</h1>
 
   <p>
     <samp>
