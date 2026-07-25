@@ -33,6 +33,7 @@ Learning by doing. Solving crackmes, dissecting binaries, documenting the proces
 |-----------|-----------|
 | [PlsCrackMe by BadEngineer](https://github.com/lTem4ikl/PlsCrackMe-by-BadEngineer) | Character class validation analysis, buffer overflow observation, python keygen |
 | [CrackmesForBegginers CFB7 by CrackNotMe](https://github.com/lTem4ikl/CrackmesForBegginers-CFB7-by-CrackNotMe) | Self-Modifying Code & Anti-Debug Bypass             |
+| [Level 4 by Lacks](https://github.com/lTem4ikl/Level-4-by-Lacks) | Unauthenticated decryption, single-byte XOR brute-force, serial derivation analysis               |
 
 ---
 
